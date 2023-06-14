@@ -7,9 +7,9 @@
         "secondary": "#1fceca"
       },
       "components": {
-        "logo": "",
-        "banner": "",
-        "bgPage": "",
+        "logo": "https://raw.githubusercontent.com/dayatz/janio-trackin-ui-configs/main/default/logo.png",
+        "banner": "https://raw.githubusercontent.com/dayatz/janio-trackin-ui-configs/61074cb5517f0912c9833b7244a80ee331559714/default/banner.svg",
+        "bgPage": "https://raw.githubusercontent.com/dayatz/janio-trackin-ui-configs/61074cb5517f0912c9833b7244a80ee331559714/default/home-bg.png",
         "navbar": {
           "bg": "#fff",
           "shadow": "rgba(183, 190, 197, 0.51) 0px 2px 4px 0px"
