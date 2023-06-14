@@ -1,0 +1,27 @@
+{
+  "configs": [
+    {
+      "id": "default",
+      "theme": {
+        "primary": "#050593",
+        "secondary": "#1fceca"
+      },
+      "components": {
+        "logo": "",
+        "banner": "",
+        "bgPage": "",
+        "navbar": {
+          "bg": "#fff",
+          "shadow": "rgba(183, 190, 197, 0.51) 0px 2px 4px 0px"
+        },
+        "trackingForm": {
+          "trackingField": {
+            "placeholder": "Enter Parcel Tracking ID",
+            "errorMsg": "Please Enter Tracking ID!"
+          },
+          "btnTitle": "Track Shipments"
+        }
+      }
+    }
+  ]
+}
