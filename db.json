@@ -22,6 +22,29 @@
           "btnTitle": "Track Shipments"
         }
       }
+    },
+    {
+      "id": "shopee",
+      "theme": {
+        "primary": "#fb5533",
+        "secondary": "#fb5533"
+      },
+      "components": {
+        "logo": "https://raw.githubusercontent.com/dayatz/janio-trackin-ui-configs/main/shopee/logo.png",
+        "banner": "https://raw.githubusercontent.com/dayatz/janio-trackin-ui-configs/main/shopee/banner.png",
+        "bgPage": "",
+        "navbar": {
+          "bg": "#fff",
+          "shadow": "rgba(183, 190, 197, 0.51) 0px 2px 4px 0px"
+        },
+        "trackingForm": {
+          "trackingField": {
+            "placeholder": "Enter Tracking Number",
+            "errorMsg": "Please Enter Tracking Number!"
+          },
+          "btnTitle": "Track Statuses"
+        }
+      }
     }
   ]
 }
